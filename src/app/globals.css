@@ -16,7 +16,6 @@ body {
 	display: grid;
 	place-items: center;
 	min-height: 100vh;
-	font-family: "Poppins";
 	overflow-x: hidden;
 }
 

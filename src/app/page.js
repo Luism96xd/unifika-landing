@@ -16,9 +16,9 @@ export default function Home() {
       </section>
       <section>
         <video
-          src="https://i.imgur.com/lxtpox0.mp4"
-          autoplay
-          playsinline
+          src="https://i.imgur.com/FhxXPUc.mp4"
+          autoPlay
+          playsInline
           muted
           loop
         ></video>
@@ -33,7 +33,7 @@ export default function Home() {
       </section>
       <section>
         <div class="section__content">
-          <h2>Muy Pronto...</h2>
+          <h2 className="text-3xl font-bold">Muy Pronto...</h2>
         </div>
       </section>
     </div>
